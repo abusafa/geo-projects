@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZJD965",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2521,
+          21.5099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK450",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.63082,
+          21.43961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK790",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6361,
+          21.353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJ526",
+        "status": "Not Started",
+        "marker-color": "#FF0003",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52124,
+          21.44103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA002",
+        "status": "Not Started",
+        "marker-color": "#FF0004",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.41929,
+          21.40226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA005",
+        "status": "Not Started",
+        "marker-color": "#FF0005",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.35394,
+          21.43194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA101",
+        "status": "Not Started",
+        "marker-color": "#FF0006",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5281,
+          21.3663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA112",
+        "status": "Not Started",
+        "marker-color": "#FF0007",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.21047,
+          21.58612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA213",
+        "status": "Not Started",
+        "marker-color": "#FF0008",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2863,
+          21.44344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZJD995",
+        "status": "Not Started",
+        "marker-color": "#FF0009",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3123,
+          21.634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC920",
+        "status": "Not Started",
+        "marker-color": "#FF0010",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3943,
+          21.6565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "202-00 or ZNJ990",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.178,
+          21.5323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VZNJA888",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1425,
+          21.6938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VZNJA889",
+        "status": "In Progress",
+        "marker-color": "#FFFF03",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15613,
+          21.66492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZJD934",
+        "status": "In Progress",
+        "marker-color": "#FFFF04",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2096,
+          21.6965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJ662",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2449,
+          21.4509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJ237",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1203,
+          21.6001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA090",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.22477,
+          21.54173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA190",
+        "status": "Not Started",
+        "marker-color": "#FF0003",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2236,
+          21.6426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJA369",
+        "status": "Not Started",
+        "marker-color": "#FF0004",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17367,
+          21.47155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZNJ799",
+        "status": "Not Started",
+        "marker-color": "#FF0005",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2109,
+          21.4592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "401-00",
+        "status": "Not Started",
+        "marker-color": "#FF0006",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60655,
+          24.46497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMD005",
+        "status": "Not Started",
+        "marker-color": "#FF0007",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6035,
+          24.429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMD396",
+        "status": "Not Started",
+        "marker-color": "#FF0008",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.61017,
+          24.4713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMDA004",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70644,
+          24.48521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMDA015",
+        "status": "In Progress",
+        "marker-color": "#FFFF03",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69667,
+          24.54256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMDA604",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.64117,
+          24.47088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMDA717",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65567,
+          24.41875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMDA918",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6095,
+          24.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "296-00-107",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.01345,
+          21.49875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PMK647",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.897,
+          21.4241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC010",
+        "status": "Not Started",
+        "marker-color": "#FF0003",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71576,
+          21.37654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC776 or ZMK281",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8808,
+          21.4987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC779",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8221,
+          21.4743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC853 or ZMKA158 or ZMKA017",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.85399,
+          21.4453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC936",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.795,
+          21.3491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC938",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.75524,
+          21.41224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC948",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8893,
+          21.3139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC973",
+        "status": "Not Started",
+        "marker-color": "#FF0003",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8272,
+          21.4334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC977",
+        "status": "Not Started",
+        "marker-color": "#FF0004",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81626,
+          21.42457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC990",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7747,
+          21.4471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MMT60m or ZMK108",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8282,
+          21.4132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK173",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9986,
+          21.4429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK220 - 2 Sec Panel",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8228,
+          21.4213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK225 - 2 Sec Panel",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8285,
+          21.4224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK298",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9552,
+          21.5588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK333",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8742,
+          21.4232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MMT100m or ZMK386",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87202,
+          21.40542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK435",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.785,
+          21.3771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "225-00",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7901,
+          21.4899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK835",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.93748,
+          21.48653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK837",
+        "status": "Not Started",
+        "marker-color": "#FF0003",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72252,
+          21.34282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA001",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88557,
+          21.41108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA005",
+        "status": "In Progress",
+        "marker-color": "#FFFF03",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78981,
+          21.42382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA010",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8889,
+          21.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA011",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81069,
+          21.45451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA012",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91458,
+          21.38344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA019",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81081,
+          21.39441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMK455 or ZMKA021",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.84149,
+          21.46197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA024",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91036,
+          21.34952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA045",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.90555,
+          21.42982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA089",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.94703,
+          21.36454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA099",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.77096,
+          21.5743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA122",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7279,
+          21.4282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA165",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9579,
+          21.3919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA178",
+        "status": "Not Started",
+        "marker-color": "#FF0002",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9423,
+          21.3288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA254",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.85165,
+          21.39349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA516",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8265,
+          21.3649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA705",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8965,
+          21.4047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC956 or ZMK451 or ZMKA765",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8817,
+          21.3873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMKA797",
+        "status": "In Progress",
+        "marker-color": "#FFFF02",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78561,
+          21.5317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZJD102",
+        "status": "In Progress",
+        "marker-color": "#FFFF03",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1096,
+          22.3127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZJD104",
+        "status": "In Progress",
+        "marker-color": "#FFFF04",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1047,
+          22.30444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZYBA943",
+        "status": "In Progress",
+        "marker-color": "#FFFF05",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.22931,
+          23.96603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZYBA956",
+        "status": "In Progress",
+        "marker-color": "#FFFF06",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2502,
+          23.9781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZYB973",
+        "status": "In Progress",
+        "marker-color": "#FFFF07",
+        "marker-size": "small",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2339,
+          23.9948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "416-00",
+        "status": "Completed",
+        "marker-color": "#00FF02",
+        "marker-size": "small",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1951,
+          24.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ZMC919",
+        "status": "Not Started",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4854,
+          21.6838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FMUT-14",
+        "status": "Not Started",
+        "marker-color": "#FF0001",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70432,
+          21.63343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PTC_PMK516 or Z1C001",
+        "status": "Tentative Sites",
+        "marker-color": "#A6A6A6",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.581,
+          21.6946
+        ]
+      }
+    }
+  ]
+}

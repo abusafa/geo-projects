@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+span.project-Not.Started{
+  color: #FF0003;
+}
+
+span.project-In.Progress{
+  color: #bdbd04;
+}
+
+span.project-Completed{
+  color: #128807;
+}
+
+span.project-Tentative.Sites{
+  color: #777;
+}
+
+.App-intro {
+  font-size: large;
+}
+.sidebar{
+  padding:10px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+  right: 0px;
+  bottom: 0px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  background: #fff;
+  height :100%
+}
+
+.feature-title{
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f1f1f1;
+}
+.feature-coordinates{
+  margin-top: 20px;
+  padding: 20px;
+  border-top: 1px solid #f1f1f1;
+  color: #999;
+}
+
+.project-success{
+  color:#00a854;
+}
+.project-exception{
+  color:#f04134;
+}
+.project-active{
+  color:#108ee9;
+}
+#divcontents{
+  display: none;
+}
+#divcontentsall{
+  display: none;
+}
+
+.leaflet-control-layers
+{
+  text-align: left;
+}
+.map-canvas{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 400px;
+  bottom: 0px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

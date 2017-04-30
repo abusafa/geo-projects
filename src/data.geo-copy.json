@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZJD965",
+        "title": "ZJD965",
+        "description": "ZJD965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2521,
+          21.5099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK450",
+        "title": "ZMK450",
+        "description": "ZMK450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.63082,
+          21.43961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK790",
+        "title": "ZMK790",
+        "description": "ZMK790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6361,
+          21.353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJ526",
+        "title": "ZNJ526",
+        "description": "ZNJ526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52124,
+          21.44103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA002",
+        "title": "ZNJA002",
+        "description": "ZNJA002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.41929,
+          21.40226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA005",
+        "title": "ZNJA005",
+        "description": "ZNJA005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.35394,
+          21.43194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA101",
+        "title": "ZNJA101",
+        "description": "ZNJA101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5281,
+          21.3663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA112",
+        "title": "ZNJA112",
+        "description": "ZNJA112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.21047,
+          21.58612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA213",
+        "title": "ZNJA213",
+        "description": "ZNJA213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2863,
+          21.44344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZJD995",
+        "title": "ZJD995",
+        "description": "ZJD995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3123,
+          21.634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC920",
+        "title": "ZMC920",
+        "description": "ZMC920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3943,
+          21.6565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "202-00 or ZNJ990",
+        "title": "202-00 or ZNJ990",
+        "description": "202-00 or ZNJ990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.178,
+          21.5323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "VZNJA888",
+        "title": "VZNJA888",
+        "description": "VZNJA888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1425,
+          21.6938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "VZNJA889",
+        "title": "VZNJA889",
+        "description": "VZNJA889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15613,
+          21.66492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZJD934",
+        "title": "ZJD934",
+        "description": "ZJD934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2096,
+          21.6965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJ662",
+        "title": "ZNJ662",
+        "description": "ZNJ662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2449,
+          21.4509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJ237",
+        "title": "ZNJ237",
+        "description": "ZNJ237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1203,
+          21.6001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA090",
+        "title": "ZNJA090",
+        "description": "ZNJA090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.22477,
+          21.54173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA190",
+        "title": "ZNJA190",
+        "description": "ZNJA190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2236,
+          21.6426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJA369",
+        "title": "ZNJA369",
+        "description": "ZNJA369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17367,
+          21.47155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZNJ799",
+        "title": "ZNJ799",
+        "description": "ZNJ799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2109,
+          21.4592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "401-00",
+        "title": "401-00",
+        "description": "401-00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60655,
+          24.46497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMD005",
+        "title": "ZMD005",
+        "description": "ZMD005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6035,
+          24.429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMD396",
+        "title": "ZMD396",
+        "description": "ZMD396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.61017,
+          24.4713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMDA004",
+        "title": "ZMDA004",
+        "description": "ZMDA004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70644,
+          24.48521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMDA015",
+        "title": "ZMDA015",
+        "description": "ZMDA015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69667,
+          24.54256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMDA604",
+        "title": "ZMDA604",
+        "description": "ZMDA604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.64117,
+          24.47088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMDA717",
+        "title": "ZMDA717",
+        "description": "ZMDA717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65567,
+          24.41875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMDA918",
+        "title": "ZMDA918",
+        "description": "ZMDA918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6095,
+          24.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "296-00-107",
+        "title": "296-00-107",
+        "description": "296-00-107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.01345,
+          21.49875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "PMK647",
+        "title": "PMK647",
+        "description": "PMK647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.897,
+          21.4241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC010",
+        "title": "ZMC010",
+        "description": "ZMC010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71576,
+          21.37654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC776 or ZMK281",
+        "title": "ZMC776 or ZMK281",
+        "description": "ZMC776 or ZMK281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8808,
+          21.4987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC779",
+        "title": "ZMC779",
+        "description": "ZMC779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8221,
+          21.4743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC853 or ZMKA158 or ZMKA017",
+        "title": "ZMC853 or ZMKA158 or ZMKA017",
+        "description": "ZMC853 or ZMKA158 or ZMKA017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.85399,
+          21.4453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC936",
+        "title": "ZMC936",
+        "description": "ZMC936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.795,
+          21.3491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC938",
+        "title": "ZMC938",
+        "description": "ZMC938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.75524,
+          21.41224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC948",
+        "title": "ZMC948",
+        "description": "ZMC948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8893,
+          21.3139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC973",
+        "title": "ZMC973",
+        "description": "ZMC973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8272,
+          21.4334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC977",
+        "title": "ZMC977",
+        "description": "ZMC977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81626,
+          21.42457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC990",
+        "title": "ZMC990",
+        "description": "ZMC990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7747,
+          21.4471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "MMT60m or ZMK108",
+        "title": "MMT60m or ZMK108",
+        "description": "MMT60m or ZMK108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8282,
+          21.4132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK173",
+        "title": "ZMK173",
+        "description": "ZMK173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9986,
+          21.4429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK220 - 2 Sec Panel",
+        "title": "ZMK220 - 2 Sec Panel",
+        "description": "ZMK220 - 2 Sec Panel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8228,
+          21.4213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK225 - 2 Sec Panel",
+        "title": "ZMK225 - 2 Sec Panel",
+        "description": "ZMK225 - 2 Sec Panel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8285,
+          21.4224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK298",
+        "title": "ZMK298",
+        "description": "ZMK298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9552,
+          21.5588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK333",
+        "title": "ZMK333",
+        "description": "ZMK333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8742,
+          21.4232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "MMT100m or ZMK386",
+        "title": "MMT100m or ZMK386",
+        "description": "MMT100m or ZMK386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87202,
+          21.40542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK435",
+        "title": "ZMK435",
+        "description": "ZMK435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.785,
+          21.3771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "225-00",
+        "title": "225-00",
+        "description": "225-00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7901,
+          21.4899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK835",
+        "title": "ZMK835",
+        "description": "ZMK835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.93748,
+          21.48653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK837",
+        "title": "ZMK837",
+        "description": "ZMK837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72252,
+          21.34282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA001",
+        "title": "ZMKA001",
+        "description": "ZMKA001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88557,
+          21.41108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA005",
+        "title": "ZMKA005",
+        "description": "ZMKA005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78981,
+          21.42382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA010",
+        "title": "ZMKA010",
+        "description": "ZMKA010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8889,
+          21.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA011",
+        "title": "ZMKA011",
+        "description": "ZMKA011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81069,
+          21.45451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA012",
+        "title": "ZMKA012",
+        "description": "ZMKA012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91458,
+          21.38344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA012A",
+        "title": "ZMKA012A",
+        "description": "ZMKA012A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91458,
+          21.38344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA013",
+        "title": "ZMKA013",
+        "description": "ZMKA013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.97759,
+          21.34764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA013A",
+        "title": "ZMKA013A",
+        "description": "ZMKA013A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.97759,
+          21.34764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA013B",
+        "title": "ZMKA013B",
+        "description": "ZMKA013B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.97759,
+          21.34764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA019",
+        "title": "ZMKA019",
+        "description": "ZMKA019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81081,
+          21.39441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMK455 or ZMKA021",
+        "title": "ZMK455 or ZMKA021",
+        "description": "ZMK455 or ZMKA021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.84149,
+          21.46197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA024",
+        "title": "ZMKA024",
+        "description": "ZMKA024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91036,
+          21.34952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA045",
+        "title": "ZMKA045",
+        "description": "ZMKA045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.90555,
+          21.42982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA089",
+        "title": "ZMKA089",
+        "description": "ZMKA089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.94703,
+          21.36454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA099",
+        "title": "ZMKA099",
+        "description": "ZMKA099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.77096,
+          21.5743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA122",
+        "title": "ZMKA122",
+        "description": "ZMKA122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7279,
+          21.4282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA165",
+        "title": "ZMKA165",
+        "description": "ZMKA165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9579,
+          21.3919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA178",
+        "title": "ZMKA178",
+        "description": "ZMKA178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9423,
+          21.3288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA254",
+        "title": "ZMKA254",
+        "description": "ZMKA254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.85165,
+          21.39349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA516",
+        "title": "ZMKA516",
+        "description": "ZMKA516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8265,
+          21.3649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA705",
+        "title": "ZMKA705",
+        "description": "ZMKA705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8965,
+          21.4047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC956 or ZMK451 or ZMKA765",
+        "title": "ZMC956 or ZMK451 or ZMKA765",
+        "description": "ZMC956 or ZMK451 or ZMKA765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8817,
+          21.3873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMKA797",
+        "title": "ZMKA797",
+        "description": "ZMKA797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78561,
+          21.5317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZJD102",
+        "title": "ZJD102",
+        "description": "ZJD102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1096,
+          22.3127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZJD104",
+        "title": "ZJD104",
+        "description": "ZJD104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1047,
+          22.30444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZYBA943",
+        "title": "ZYBA943",
+        "description": "ZYBA943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.22931,
+          23.96603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZYBA956",
+        "title": "ZYBA956",
+        "description": "ZYBA956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2502,
+          23.9781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZYB973",
+        "title": "ZYB973",
+        "description": "ZYB973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2339,
+          23.9948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "416-00",
+        "title": "416-00",
+        "description": "416-00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1951,
+          24.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "ZMC919",
+        "title": "ZMC919",
+        "description": "ZMC919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4854,
+          21.6838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "FMUT-14",
+        "title": "FMUT-14",
+        "description": "FMUT-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70432,
+          21.63343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "id": "PTC_PMK516 or Z1C001",
+        "title": "PTC_PMK516 or Z1C001",
+        "description": "PTC_PMK516 or Z1C001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.581,
+          21.6946
+        ]
+      }
+    }
+  ]
+}
